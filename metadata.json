@@ -1,0 +1,6 @@
+{
+  "name": "SafeRunbook",
+  "description": "AI-powered operational automation platform that plans, executes, and verifies runbooks with human-in-the-loop safety checkpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
